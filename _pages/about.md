@@ -16,7 +16,7 @@ My major research interest is about graph algorithm, graph data mining, and vect
 
 What's new
 ===
-Recently, our team's approximate nearest neighbor search method qsg-ngt acheived the best performance on ANN-Benchmark(https://ann-benchmarks.com/).
+Recently, our team's approximate nearest neighbor search method qsg-ngt acheived the best performance on ANN-Benchmark (https://ann-benchmarks.com/).
 
 We propose PR-GPT (Pre-trained & Refined Graph ParTitioning) based
 on a novel pre-training & refinement paradigm, which won the streaming graph partition track championship on graph challenge organized by MIT.
