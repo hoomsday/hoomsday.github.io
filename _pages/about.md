@@ -11,4 +11,6 @@ I am currently working as theortical researcher at Theory Lab, Huawei. I got my 
 
 Research interests
 ===
-My major research interest is 
+My major research interest is about graph algorithm, graph data mining, and vector database. 
+
+Recently, our team's approximate nearest neighbor search method qsg-ngt acheived the best performance on ANN-Benchmark.
